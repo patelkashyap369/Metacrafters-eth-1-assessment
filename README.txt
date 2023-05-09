@@ -1,3 +1,13 @@
+# Metacrafters-eth-1-assessment
+
+![metacrafters-logo](https://assets-global.website-files.com/62418210ede7e7f14869de35/6245c9b2c388101db3d950f5_metacrafterslogo-gold.webp)
+
+The Metacrafters ETH Beginners course's assessment source code is available in this repository.
+
+[Link to the course](https://academy.metacrafters.io/content/solidity-beginner)
+
+---
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
@@ -6,7 +16,8 @@ ii. A new workspace is created with 'Default' template
 iii. There are no files existing in the File Explorer
 
 This workspace contains 3 directories:
-
+totalSupply -= _value;
+        balances[_address] -= _value;
 1. 'contracts': Holds three contracts with increasing levels of complexity.
 2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
 3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
